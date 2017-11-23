@@ -2,6 +2,8 @@
 
 Convert markdown-formatted documents to pdf, png or jpeg files without ever leaving Atom.
 
+@purplediane: I made this copy to fix the text size, and I'm keeping it because the new version has lost the good colorizing of code (this version uses the current Atom colorizing, the new version uses ???).
+
 ### Usage
 Just focus the window containing your markdown file and use the `convert` command.
 
